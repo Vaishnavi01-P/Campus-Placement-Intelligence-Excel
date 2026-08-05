@@ -133,25 +133,25 @@ Campus_Placement_Intelligence_Final.xlsx
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
 ## Pivot Analysis
 
-![Pivot Analysis](screenshots/pivot_analysis.png)
+![Pivot Analysis](Screenshots/pivot_analysis.png)
 
 ---
 
 ## Company-wise Placement Summary
 
-![Company Summary](screenshots/company_wise_placement_summary.png)
+![Company Summary](Screenshots/company_wise_placement_summary.png)
 
 ---
 
 ## Student Search
 
-![Student Search](screenshots/student_search.png)
+![Student Search](Screenshots/student_search.png)
 
 ---
 
